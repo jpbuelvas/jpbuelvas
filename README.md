@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![jpbuelvas GitHub stats](https://github-readme-stats.vercel.app/api?username=jpbuelvas)](https://github.com/jpbuelvas/github-readme-stats)
+![jpbuelvas GitHub stats](https://github-readme-stats.vercel.app/api?username=jpbuelvas&show_icons=true)
 [![jpbuelvas GitHub stats](https://github-readme-stats.vercel.app/api?username=jpbuelvas)](https://github.com/jpbuelvas/github-readme-stats)
 <!--
 **jpbuelvas/jpbuelvas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
