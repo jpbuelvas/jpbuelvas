@@ -6,7 +6,7 @@ I am a Software Developer and Backend Developer from Colombia.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on Hackerank and read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-jpbuelvas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-buelvas-movilla-942a561a7/)
-- 📫 How to reach me **jpbuelvas@uninorte.edu.com**
+- 📫 How to reach me **jpbuelvasm@gmail.com**
 
 <div align="center">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/80px-React-icon.svg.png" width="40" height="40"> 
